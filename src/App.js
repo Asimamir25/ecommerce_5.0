@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn  cxz  React
+          Learn React with asim
         </a>
       </header>
     </div>
